@@ -1,4 +1,4 @@
-# React Pagination Project
+# Pagination using React
 
 This project demonstrates a simple pagination feature using React. It fetches a list of posts from an API and displays them with pagination controls.
 
